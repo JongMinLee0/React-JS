@@ -20,6 +20,8 @@
 ## Note
 See the [Note folder]
 
+<br />
+
 ## Reference
 Based on the lecture video of nomad coder. Thank you for the good lecture!
 
