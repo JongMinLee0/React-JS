@@ -18,11 +18,11 @@
 <br />
 
 ## Note
-See the [Note folder]
+See the [./src/Note][Note]
 
 <br />
 
 ## Reference
 Based on the lecture video of nomad coder. Thank you for the good lecture!
 
-[Note folder]: <./src/Note>
+[Note]:<https://github.com/JongMinLee0/React-JS/tree/master/Note>
